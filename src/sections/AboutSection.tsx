@@ -33,7 +33,7 @@ export default function AboutSection() {
           {/* Image */}
           <div className="reveal relative">
             <img
-              src="/about-image.jpg"
+              src="about-image.jpg"
               alt="Trekking guide with group in Himalayas"
               className="w-full object-cover"
               style={{ aspectRatio: '3/4' }}

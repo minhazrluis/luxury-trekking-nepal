@@ -80,7 +80,7 @@ export default function ExpeditionSection() {
       <div className="lg:flex-[0_0_55%] relative overflow-hidden min-h-[50vh] lg:min-h-0">
         <img
           ref={imgRef}
-          src="/expedition-spotlight.jpg"
+          src="expedition-spotlight.jpg"
           alt="Khumbu Icefall Everest expedition"
           className="absolute inset-0 w-full"
           style={{ height: '120%', top: '-10%' }}

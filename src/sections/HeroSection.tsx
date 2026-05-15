@@ -4,7 +4,7 @@ export default function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/hero-bg.jpg"
+          src="hero-bg.jpg"
           alt="Himalayan mountain range at golden hour with prayer flags"
           className="w-full h-full object-cover object-[center_30%]"
           loading="eager"

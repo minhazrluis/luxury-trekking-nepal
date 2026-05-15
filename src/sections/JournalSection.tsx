@@ -1,6 +1,6 @@
 const articles = [
   {
-    image: '/blog-messner.jpg',
+    image: 'blog-messner.jpg',
     alt: 'Reinhold Messner',
     category: 'Mountaineering',
     title: 'Reinhold Messner: Conquering Heights and Defying Limits in the Himalayas',
@@ -9,7 +9,7 @@ const articles = [
     delay: '0s',
   },
   {
-    image: '/blog-kit.jpg',
+    image: 'blog-kit.jpg',
     alt: 'Trekking kit list',
     category: 'Trekking Guide',
     title: 'The Ultimate Kit List for Trekking in Nepal',
@@ -18,7 +18,7 @@ const articles = [
     delay: '0.15s',
   },
   {
-    image: '/blog-annapurna.jpg',
+    image: 'blog-annapurna.jpg',
     alt: 'Annapurna Circuit Trek',
     category: 'Trekking Guide',
     title: 'Annapurna Circuit Trek: Fitness Requirements, Challenges and Essential Equipment',

@@ -1,6 +1,6 @@
 const activities = [
   {
-    image: '/trekking-card.jpg',
+    image: 'trekking-card.jpg',
     alt: 'Trekking in the Himalayas',
     subtitle: 'Annapurna & Everest',
     title: 'Trekking',
@@ -10,7 +10,7 @@ const activities = [
     delay: '0s',
   },
   {
-    image: '/tour-card.jpg',
+    image: 'tour-card.jpg',
     alt: 'Cultural tour in Nepal',
     subtitle: 'Exploring Nepal',
     title: 'Guided Tour',
@@ -20,7 +20,7 @@ const activities = [
     delay: '0.15s',
   },
   {
-    image: '/safari-card.jpg',
+    image: 'safari-card.jpg',
     alt: 'Jungle safari in Chitwan',
     subtitle: 'Chitwan & Bardia',
     title: 'Jungle Safari',
@@ -30,7 +30,7 @@ const activities = [
     delay: '0.3s',
   },
   {
-    image: '/rafting-card.jpg',
+    image: 'rafting-card.jpg',
     alt: 'White water rafting',
     subtitle: 'Adventure Tour',
     title: 'Rafting',

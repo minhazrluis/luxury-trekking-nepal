@@ -3,7 +3,7 @@ import { useCarouselDrag } from '../hooks/useCarouselDrag';
 
 const tours = [
   {
-    image: '/ebc-tour.jpg',
+    image: 'ebc-tour.jpg',
     alt: 'Everest Base Camp Trek',
     badge: 'Most Popular',
     title: 'Everest Base Camp Trek to Kala Patthar',
@@ -13,7 +13,7 @@ const tours = [
     delay: '0s',
   },
   {
-    image: '/annapurna-bc-tour.jpg',
+    image: 'annapurna-bc-tour.jpg',
     alt: 'Annapurna Base Camp Trek',
     badge: 'Featured',
     title: 'Annapurna Base Camp Trek',
@@ -23,7 +23,7 @@ const tours = [
     delay: '0.12s',
   },
   {
-    image: '/manaslu-tour.jpg',
+    image: 'manaslu-tour.jpg',
     alt: 'Manaslu Circuit Trek',
     badge: null,
     title: 'Manaslu Circuit Trek',
@@ -33,7 +33,7 @@ const tours = [
     delay: '0.24s',
   },
   {
-    image: '/gokyo-tour.jpg',
+    image: 'gokyo-tour.jpg',
     alt: 'Gokyo Lakes Trek',
     badge: null,
     title: 'Gokyo Lakes Trek',
@@ -43,7 +43,7 @@ const tours = [
     delay: '0.36s',
   },
   {
-    image: '/poon-hill-tour.jpg',
+    image: 'poon-hill-tour.jpg',
     alt: 'Ghorepani Poon Hill Trek',
     badge: null,
     title: 'Ghorepani Poon Hill Trek',
@@ -53,7 +53,7 @@ const tours = [
     delay: '0.48s',
   },
   {
-    image: '/mardi-tour.jpg',
+    image: 'mardi-tour.jpg',
     alt: 'Mardi Himal Trek',
     badge: null,
     title: 'Mardi Himal Trek',
@@ -63,7 +63,7 @@ const tours = [
     delay: '0.6s',
   },
   {
-    image: '/annapurna-circuit-tour.jpg',
+    image: 'annapurna-circuit-tour.jpg',
     alt: 'Annapurna Circuit Trek',
     badge: 'Luxury',
     title: 'Annapurna Circuit Trek',
@@ -73,7 +73,7 @@ const tours = [
     delay: '0.72s',
   },
   {
-    image: '/kanchenjunga-tour.jpg',
+    image: 'kanchenjunga-tour.jpg',
     alt: 'Kanchenjunga Base Camp Trek',
     badge: null,
     title: 'Kanchenjunga Base Camp Trek',
